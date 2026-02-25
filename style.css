@@ -35,12 +35,12 @@ header p {
     background-color: #1d4ed8;
 }
 
-.card h3 a {
+.card h3 {
     text-decoration: none;
     color: #111827;
 }
 
-.card h3 a:hover {
+.card h3:hover {
     color: #2563eb;
 }
 
